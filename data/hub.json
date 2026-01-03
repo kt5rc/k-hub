@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dump",
+    "title": "DUMP",
+    "description": "思考整理用のローカル完結メモアプリ",
+    "url": "https://codex-app-six.vercel.app/",
+    "repo": "https://github.com/kt5rc/codex-app",
+    "status": "done",
+    "tags": ["local-first", "db-less", "thinking"],
+    "highlights": [
+      "API・DBなし",
+      "JSONをsource of truthに設計",
+      "Vercelで即共有"
+    ]
+  },
+  {
+    "id": "gallery",
+    "title": "Gallery / Vibe",
+    "description": "Forge生成JPGのEXIFからgallery.jsonを全自動生成して表示するギャラリー",
+    "url": "https://gallery-azure-two.vercel.app/",
+    "repo": "https://github.com/kt5rc/Gallery",
+    "status": "done",
+    "tags": ["local-first", "static-only", "showcase"],
+    "highlights": [
+      "画像が正（source of truth）",
+      "毎回全生成（上書き）",
+      "DB/APIなし"
+    ]
+  }
+]
