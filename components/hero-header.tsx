@@ -30,6 +30,8 @@ export function HeroHeader({
         </Link>
       </div>
 
+      <div className="mb-1 h-px w-28 rounded-full bg-gradient-to-r from-transparent via-foreground/10 to-foreground/30" />
+
       <div className="flex items-center gap-2">
         <h1
           className="text-4xl font-semibold tracking-tight md:text-5xl"

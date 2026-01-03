@@ -11,7 +11,7 @@ export default function Home() {
     <main className="min-h-screen text-foreground">
       <div className="mx-auto flex w-full max-w-3xl flex-col gap-6 px-6 py-10">
         <HeroHeader
-          kicker="LOCAL HUB"
+          kicker="SMALL TOOLS"
           title="K-Hub"
           subtitle="Keep links, notes, and repos close. Simple, local-first, and shareable."
         />
