@@ -2,7 +2,7 @@
   {
     "id": "askdock",
     "title": "AskDock",
-    "description": "新人向けの「わからなかったこと」を共有・回答・Solvedで整理する簡易Q&Aメモ",
+    "description": "「わからなかったこと」を共有・回答で整理する簡易Q&Aメモ",
     "url": "https://ask-dock.vercel.app",
     "repo": "https://github.com/kt5rc/askdock",
     "status": "active",
@@ -22,9 +22,9 @@
     "status": "done",
     "tags": ["local-first", "db-less", "thinking"],
     "highlights": [
-      "API・DBなし",
       "JSONをsource of truthに設計",
-      "Vercelで即共有"
+      "Vercelで即共有",
+      "DB/APIなし"
     ]
   },
   {
