@@ -1,5 +1,19 @@
 [
   {
+    "id": "askdock",
+    "title": "AskDock",
+    "description": "新人向けの「わからなかったこと」を共有・回答・Solvedで整理する簡易Q&Aメモ",
+    "url": "https://ask-dock.vercel.app",
+    "repo": "https://github.com/kt5rc/askdock",
+    "status": "active",
+    "tags": ["nextjs", "supabase", "qa", "memo", "auth"],
+    "highlights": [
+      "質問→回答→SolvedのシンプルなQ&Aフロー",
+      "自作認証＋セッション管理",
+      "Supabase(Postgres)をDB専用で使用"
+    ]
+  },
+  {
     "id": "dump",
     "title": "DUMP",
     "description": "思考整理用のローカル完結メモアプリ",
